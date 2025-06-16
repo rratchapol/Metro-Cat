@@ -71,13 +71,13 @@ const ServiceFormPage: React.FC = () => {
 
   return (
     <Box sx={{ 
-      minHeight: '100vh',
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      bgcolor: 'background.default',
+      // minHeight: '100vh',
+      // display: 'flex',
+      // alignItems: 'center',
+      // justifyContent: 'center',
+      // bgcolor: 'background.default',
       py: 4,
-      px: 2
+      // px: 2
     }}>
       <Paper
         component="form"
